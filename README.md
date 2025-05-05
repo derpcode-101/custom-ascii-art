@@ -53,5 +53,24 @@ The converter works by:
 - Design text-art for README files in code repositories
 
 ---
+                               
+                                                  
+                #==+@                             
+                =  @=%  %+=*                      
+                =   @=#*+@ *#                     
+                =@   @==   @=                     
+                %=@   @%    =                     
+                 #+         =                     
+                  *#        =                     
+                   =@      @+                     
+                   @=      +@                     
+                    #*    %+                      
+                     =@  @=@                      
+                     @+  +%                       
+                      +@**                        
+                      %=+                         
+                       +@                         
+                                                     
+                                            
 
 *This tool runs entirely in your browser and doesn't upload your drawings to any server.*
